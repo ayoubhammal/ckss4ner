@@ -1,0 +1,33 @@
+BASKETBALLSOCCER - TROFEJ BEOGRAD TOURNAMENT RESULTS .
+O O B-MISC I-MISC I-MISC O O
+
+Fernandez was forced to withdraw from the U.S. Open .
+B-PER O O O O O O B-MISC I-MISC O
+
+Andre Agassi escaped disaster on Thursday but Wimbledon finalist MaliVai Washington and Marcelo Rios were not so fortunate on a night of upsets at the U.S. Open .
+B-PER I-PER O O O O O B-MISC O B-PER I-PER O B-PER I-PER O O O O O O O O O O O B-MISC I-MISC O
+
+" We could carry another 100 points lower in the Dow , " he said . "
+O O O O O O O O O O B-MISC O O O O O O
+
+Ross County 3 0 0 3 3 7 0
+B-ORG I-ORG O O O O O O O
+
+St Mirren 3 1 1 1 5 4 4
+B-ORG I-ORG O O O O O O O
+
+Responding to a letter from the the Palestinian U.N. observer mission , Security Council President Tono Eitel of Germany said that members asked him to convey their views to Israel 's charge d'affaires , David Peleg .
+O O O O O O O B-MISC B-ORG O O O B-ORG I-ORG O B-PER I-PER O B-LOC O O O O O O O O O O B-LOC O O O O B-PER I-PER O
+
+But Le Matin newspaper , quoting witnesses , said the bomb killed seven people and wounded 20 .
+O B-ORG I-ORG O O O O O O O O O O O O O O O
+
+The Dutch transport minister Annemarie Jorritsma told the country ' second chamber that there is no further need to investigate the 1992 crash of an El Al freighter which left 43 dead in an Amsterdam suburb .
+O B-MISC O O B-PER I-PER O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O B-LOC O O
+
+The 30-year-old Edberg , a former two-time Open champion , had wrestled control of the match away from Karbacher when the German , hampered by a left hamstring injury , decided he could n't continue under the stadium lights at the National Tennis Centre .
+O O B-PER O O O O B-MISC O O O O O O O O O O B-PER O O B-MISC O O O O O O O O O O O O O O O O O O O B-LOC I-LOC I-LOC O
+
+1. Rolf Sorensen ( Denmark ) Rabobank 20:36:54
+O B-PER I-PER O B-LOC O B-ORG O
+
